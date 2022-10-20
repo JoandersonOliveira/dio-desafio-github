@@ -1,0 +1,10 @@
+Link para download do repositório: https://github.com/JoandersonOliveira/dio-desafio-github.git
+
+
+O Gitbash é um terminal próprio do Git que visa otimizar o uso do Git.
+
+#COMANDOS
+
+git status: Permite visualizar o status atual da branch
+git add:    Adiciona as alterações feitas no arquivo na branch master.
+
